@@ -1,0 +1,15 @@
+# 系统文件
+.DS_Store
+
+# 工具与本地环境
+.workbuddy/
+.idea/
+.vscode/
+
+# 依赖与产物
+node_modules/
+dist/
+build/
+*.log
+.env
+.env.local
