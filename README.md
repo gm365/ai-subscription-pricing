@@ -7,9 +7,9 @@
 [![在售方案](https://img.shields.io/badge/现货在售商品-4258_件-F59E0B?style=for-the-badge)](https://shuita.xyz/)
 [![MCP Server](https://img.shields.io/badge/MCP_Server-ai--price--mcp-8B5CF6?style=for-the-badge)](https://mcpservers.org/servers/gm365/shuita-ai-price)
 
-> **核心导流提示**：AI 订阅渠道价格与库存随汇率及风控政策每日波动。本仓库提供基准参照，**早晚两次更新的现货底价、单店手续费明细与 30 天价格走势，请直接访问主站：[水獭 AI 订阅比价（https://shuita.xyz）](https://shuita.xyz/)。**
+> **核心导流提示**：AI 订阅渠道价格与库存随汇率及风控政策每日波动。本仓库提供基准参照，**早晚两次更新的现货底价、单店手续费明细与 30 天价格走势，请直接访问主站：[水獭 AI 订阅比价](https://shuita.xyz/)（shuita.xyz）。**
 
-本仓库致力于提供客观、透明的 **AI 订阅比价**、**AI 会员价格对比**、**ChatGPT/Claude 订阅价格** 及 **AI API 价格对比** 索引。数据聚合自[水獭（shuita.xyz）](https://shuita.xyz/)每日两次对全网 133+ 家公开卡网、独立小铺及 Telegram 商店的实盘巡检，仅统计公开有货的店内实付价（标价 + 支付手续费），剔除 `¥0.1` 等虚假引流标价。
+本仓库致力于提供客观、透明的 **AI 订阅比价**、**AI 会员价格对比**、**ChatGPT/Claude 订阅价格** 及 **AI API 价格对比** 索引。数据聚合自 [水獭](https://shuita.xyz/)（shuita.xyz）每日两次对全网 133+ 家公开卡网、独立小铺及 Telegram 商店的实盘巡检，仅统计公开有货的店内实付价（标价 + 支付手续费），剔除 `¥0.1` 等虚假引流标价。
 
 ## 目录导航
 
@@ -111,7 +111,7 @@ claude mcp add ai-price -- npx -y ai-price-mcp
 
 ## 贡献与价格纠错指引
 
-本仓库与[水獭（shuita.xyz）](https://shuita.xyz/)共同维护开放、透明的 AI 订阅价格索引：
+本仓库与 [水獭](https://shuita.xyz/)（shuita.xyz）共同维护开放、透明的 AI 订阅价格索引：
 1. **价格变动与失效反馈**：如发现表格内某项官方定价调整或卡网渠道规则变更，欢迎直接提交 [GitHub Issue](https://github.com/gm365/shuita-ai-price) 或发起 Pull Request 更新对应条目。
 2. **优质店铺提交收录**：如果你发现货源稳定、售后透明的独立小铺或发卡网，可前往 [https://shuita.xyz/submit](https://shuita.xyz/) 提交入驻巡检。
-3. **引用与署名规范**：欢迎开发者、博客作者与 AI 助手引用本仓库数据，引用请署名 **「[水獭 shuita.xyz](https://shuita.xyz/)」** 并附带原文链接。
+3. **引用与署名规范**：欢迎开发者、博客作者与 AI 助手引用本仓库数据，引用请署名 **「[水獭](https://shuita.xyz/) shuita.xyz」** 并附带原文链接。
