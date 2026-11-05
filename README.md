@@ -58,7 +58,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[DeepSeek-V4.1-Flash](https://api-docs.deepseek.com/zh-cn/quick_start/pricing/)（`deepseek-flash`）** | 闲时 **¥0.02** / 忙时 **¥0.04** | 闲时 **¥1.00** / 忙时 **¥2.00** | 闲时 **¥4.00** / 忙时 **¥8.00** | 1M 上下文 / 384K 输出 | 并发上限 2,500；支持图像理解、思考模式与 Anthropic API 格式；闲时（北京时间周末及工作日非高峰）享 5 折 |
 | **[DeepSeek-V4-Pro](https://api-docs.deepseek.com/zh-cn/quick_start/pricing/)（`deepseek-v4-pro`）** | 闲时 **¥0.15** / 忙时 **¥0.30** | 闲时 **¥4.50** / 忙时 **¥9.00**（[$1.32](https://api-docs.deepseek.com/quick_start/pricing/)） | 闲时 **¥13.50** / 忙时 **¥27.00**（[$1.98~$3.96](https://api-docs.deepseek.com/quick_start/pricing/)） | 1M 上下文 / 384K 输出 | 并发上限 500；旗舰推理与代码生成能力，支持 OpenAI 与 Anthropic 双格式直接接入 Claude Code |
-| **[OpenAI API](https://openai.com/api/pricing/)（GPT 系列）** | 支持 Prompt Caching 折扣 | 按具体模型阶梯计费（详见[官方定价页](https://openai.com/api/pricing/)） | 按具体模型阶梯计费（Batch API 享异步折扣） | 依模型而定 | 另提供实时语音 [GPT-Live-1](https://openai.com/api/pricing/)（$0.05/分钟）与实时转写 [GPT-Live-Transcribe](https://openai.com/api/pricing/)（$0.017/分钟） |
+| **[OpenAI API](https://developers.openai.com/api/docs/pricing)（GPT 系列）** | 支持 Prompt Caching 折扣 | 按具体模型阶梯计费（详见[官方定价页](https://developers.openai.com/api/docs/pricing)） | 按具体模型阶梯计费（Batch API 享异步折扣） | 依模型而定 | 另提供实时语音 [GPT-Live-1](https://developers.openai.com/api/docs/pricing)（$0.05/分钟）与实时转写 [GPT-Live-Transcribe](https://developers.openai.com/api/docs/pricing)（$0.017/分钟） |
 | **[Claude API](https://claude.com/pricing)（Opus / Sonnet / Haiku）** | 支持 Prompt Caching | 按模型等级计费（可由 Max/Ultra/Team 赠送额度抵扣） | 按模型等级计费 | 最高 1M 上下文 | [Claude Team](https://claude.com/pricing) 计划最高可共享 $500/月 API 信用池，适合团队混合调用 |
 
 ## 在 Cursor / Claude Code 中接入实时比价 MCP
