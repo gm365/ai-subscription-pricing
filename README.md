@@ -3,8 +3,8 @@
 **穿透渠道溢价与引流虚标，查清主流 AI 会员与 API 的真实到手价。**
 
 [![数据实时更新于：shuita.xyz](https://img.shields.io/badge/数据实时更新于-shuita.xyz-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shuita.xyz/)
-[![收录店铺](https://img.shields.io/badge/实时巡检店铺-133%2B_家-10B981?style=for-the-badge)](https://shuita.xyz/)
-[![在售方案](https://img.shields.io/badge/现货在售商品-4258_件-F59E0B?style=for-the-badge)](https://shuita.xyz/)
+[![收录店铺](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fshuita.xyz%2Fdata%2Fmeta.json&query=%24.stats.shops&label=%E5%AE%9E%E6%97%B6%E5%B7%A1%E6%A3%80%E5%BA%97%E9%93%BA&suffix=%2B%20%E5%AE%B6&color=10B981&style=for-the-badge)](https://shuita.xyz/)
+[![在售方案](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fshuita.xyz%2Fdata%2Fmeta.json&query=%24.stats.items&label=%E7%8E%B0%E8%B4%A7%E5%9C%A8%E5%94%AE%E5%95%86%E5%93%81&suffix=%20%E4%BB%B6&color=F59E0B&style=for-the-badge)](https://shuita.xyz/)
 [![MCP Server](https://img.shields.io/badge/MCP_Server-ai--price--mcp-8B5CF6?style=for-the-badge)](https://mcpservers.org/servers/gm365/shuita-ai-price)
 
 > **核心导流提示**：AI 订阅渠道价格与库存随汇率及风控政策每日波动。本仓库提供基准参照，**早晚两次更新的现货底价、单店手续费明细与 30 天价格走势，请直接访问主站：[水獭 AI 订阅比价](https://shuita.xyz/)（shuita.xyz）。**
